@@ -53,7 +53,6 @@ Based in Trois-Rivières, Québec.
         <li>Bring your own engine: Claude Code, Codex, Grok and more</li>
         <li>Approval cards, plain-language rules and a credential vault</li>
         <li>Solo on your machine, or with your whole organization</li>
-        <li>macOS, Windows, iPhone and iPad</li>
       </ul>
       <p><a href="https://github.com/pulsatrixtechnologies/sagax">Repository</a>&nbsp;&middot;&nbsp;<a href="https://github.com/pulsatrixtechnologies/sagax/releases">Download</a>&nbsp;&middot;&nbsp;<a href="https://pulsatrix.ca/en/sagax">Learn more&nbsp;→</a></p>
     </td>
