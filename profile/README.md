@@ -17,7 +17,6 @@ banner-dark.svg
   &nbsp;&middot;&nbsp;
   <a href="mailto:hello@pulsatrix.ca"><b>Contact</b></a>
   &nbsp;&middot;&nbsp;
-  <a href="#français"><b>Français</b></a>
 </p>
 
 <br>
@@ -77,38 +76,3 @@ Based in Trois-Rivières, Québec.
 Access is on request. Write to **[hello@pulsatrix.ca](mailto:hello@pulsatrix.ca)** or visit **[pulsatrix.ca](https://pulsatrix.ca/en)**.
 
 <br>
-
----
-
-<br>
-
-## Français
-
-**Pulsatrix Technologies inc.** conçoit des logiciels qui mettent les assistants IA au travail dans les outils que votre équipe utilise déjà. L'assistant lit, prépare et propose. Une personne dit oui avant chaque changement.
-
-Basée à Trois-Rivières, au Québec.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Perspicax</h3>
-      <p><b>La porte entre l'intelligence et vos logiciels.</b></p>
-      <p>Perspicax branche l'assistant sur les logiciels du bureau. Il lit, il prépare le geste, et il attend qu'une personne dise oui avant d'écrire.</p>
-      <p><a href="https://pulsatrix.ca/perspicax">En savoir plus&nbsp;→</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Sagax</h3>
-      <p><b>Le bureau des assistants.</b></p>
-      <p>Sagax s'ouvre comme une messagerie. Chaque contact est un assistant qui a sa mémoire et son propre ordinateur. Seul sur votre poste, ou avec toute l'équipe.</p>
-      <p><a href="https://pulsatrix.ca/sagax">En savoir plus&nbsp;→</a></p>
-    </td>
-  </tr>
-</table>
-
-L'accès se fait sur demande : **[hello@pulsatrix.ca](mailto:hello@pulsatrix.ca)** · **[pulsatrix.ca](https://pulsatrix.ca)**
-
-<br>
-
-<p align="center">
-  <sub>© Pulsatrix Technologies inc. · Trois-Rivières, Québec</sub>
-</p>
