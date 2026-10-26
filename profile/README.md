@@ -7,7 +7,7 @@
     </picture>
   </a>
 </p>
-banner-dark.svg
+
 <p align="center">
   <a href="https://pulsatrix.ca/en"><b>Website</b></a>
   &nbsp;&middot;&nbsp;
