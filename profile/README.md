@@ -16,7 +16,6 @@
   <a href="#how-we-build"><b>How we build</b></a>
   &nbsp;&middot;&nbsp;
   <a href="mailto:hello@pulsatrix.ca"><b>Contact</b></a>
-  &nbsp;&middot;&nbsp;
 </p>
 
 <br>
