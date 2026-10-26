@@ -41,7 +41,6 @@ Based in Trois-Rivières, Québec.
         <li>A curated resource model, not a raw proxy</li>
         <li>Per-caller scopes, checked on every call</li>
         <li>Read before write, dry runs and a full journal</li>
-        <li>ConnectWise, SentinelOne, Axcient, ScreenConnect and more</li>
       </ul>
       <p><a href="https://pulsatrix.ca/en/perspicax">Learn more&nbsp;→</a></p>
     </td>
