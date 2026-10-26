@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://pulsatrix.ca">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pulsatrixtechnologies/.github/main/profile/assets/banner-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pulsatrixtechnologies/.github/main/profile/assets/banner-light.svg">
-      <img src="https://raw.githubusercontent.com/pulsatrixtechnologies/.github/main/profile/assets/banner-dark.svg" width="100%" alt="Pulsatrix Technologies — The intelligence you already pay for, finally at work. A person says yes before anything changes.">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pulsatrixtechnologies/.github/refs/heads/main/profile/assets/banner-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pulsatrixtechnologies/.github/refs/heads/main/profile/assets/banner-light.svg">
+      <img src="https://raw.githubusercontent.com/pulsatrixtechnologies/.github/refs/heads/main/profile/assets/banner-dark.svg" width="100%" alt="Pulsatrix Technologies — The intelligence you already pay for, finally at work. A person says yes before anything changes.">
     </picture>
   </a>
 </p>
-
+banner-dark.svg
 <p align="center">
   <a href="https://pulsatrix.ca/en"><b>Website</b></a>
   &nbsp;&middot;&nbsp;
@@ -33,7 +33,7 @@ Based in Trois-Rivières, Québec.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/pulsatrixtechnologies/.github/main/profile/assets/perspicax.svg" width="56" height="56" alt="Perspicax">
+      <img src="https://raw.githubusercontent.com/pulsatrixtechnologies/.github/refs/heads/main/profile/assets/perspicax.svg" width="56" height="56" alt="Perspicax">
       <h3>Perspicax</h3>
       <p><b>The gateway between AI and your software.</b></p>
       <p>Perspicax turns the API document a vendor already publishes into MCP tools an assistant can call, behind its own OAuth&nbsp;2.1 server, with the access rules an MSP needs.</p>
@@ -46,7 +46,7 @@ Based in Trois-Rivières, Québec.
       <p><a href="https://pulsatrix.ca/en/perspicax">Learn more&nbsp;→</a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/pulsatrixtechnologies/.github/main/profile/assets/sagax.svg" width="56" height="56" alt="Sagax">
+      <img src="https://raw.githubusercontent.com/pulsatrixtechnologies/.github/refs/heads/main/profile/assets/sagax.svg" width="56" height="56" alt="Sagax">
       <h3>Sagax</h3>
       <p><b>A team of AI agents, in a chat app.</b></p>
       <p>Each contact is an agent with its own model, memory, routines and computer. It does real work and waits for your approval before anything that matters.</p>
